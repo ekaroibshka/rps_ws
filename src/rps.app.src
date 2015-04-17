@@ -1,0 +1,12 @@
+{application, rps,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { rps_app, []}},
+  {env, []}
+ ]}.

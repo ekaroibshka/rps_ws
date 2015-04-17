@@ -1,0 +1,1 @@
+-define(APPS, [crypto, ranch, cowlib, cowboy, gen_leader, gproc, rps]).

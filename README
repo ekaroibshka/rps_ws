@@ -1,0 +1,10 @@
+rock-paper-scissors over http via websockets game
+
+running:
+	cd $projectfolder$
+	make
+	make run
+
+dependencies:
+	erlang >= 17
+	rebar
